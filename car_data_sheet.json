@@ -6,7 +6,7 @@
       "Acceleration": 4.0,
       "Price": 54000,
       "Pic": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my19/cla/byo/options/2019-CLA-CLA45-AMG-MODEL-PAGE-105.jpg",
-      "Unique": "AMG"
+      "Unique": "AMG",
    },
    
     {
@@ -57,7 +57,31 @@
       "Acceleration": 4.0,
       "Price": 35000,
       "Pic": "https://www.boostaddict.com/images/imported/2019/03/2019ChevroletCamaroSSfrontthreequarter1-1.jpg",
-      "Unique": "SS"
+      "Unique": "SS",
+      "ImageOneLink": "https://images.unsplash.com/photo-1550095792-46c9e525f25a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+      "ImageTwoLink": "https://images.unsplash.com/photo-1523729081326-a85565e57e4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "ImageThreeLink": "https://images.unsplash.com/photo-1504078151140-0d07249b8a9a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "ImageFourLink": "https://images.unsplash.com/photo-1505343372103-a5df37706406?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "ImageFiveLink": "https://images.unsplash.com/photo-1573343960734-f3c3753a563f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "Pro1": "Price",
+      "Pro2": "American Muscle V8 Engine!",
+      "Pro3": "Handling",
+      "Con1": "American Car, American Reliability",
+      "Con2": "Gas Guzzler!",
+      "Con3": "Chews Through Tires",
+      "Option1": "Option I",
+      "Option1Image": "https://www.chevrolet.com/bypass/master_tools/ddp/gmna/assets/US/chevrolet/2020/camaro/camaro/large_byo/RQA.jpg",
+      "Option1Price": "Price A USD",
+      "Option2": "Option II",
+      "Option2Image": "https://www.chevrolet.com/bypass/master_tools/ddp/gmna/assets/US/chevrolet/2020/camaro/camaro/large_byo/RQA.jpg",
+      "Option2Price": "Price B USD",
+      "Option3": "Option III",
+      "Option3Image": "https://www.chevrolet.com/bypass/master_tools/ddp/gmna/assets/US/chevrolet/2020/camaro/camaro/large_byo/RQA.jpg",
+      "Option3Price": "Price C USD",
+      "ReviewImage1": "https://i.pinimg.com/originals/6d/24/ef/6d24efb4a6c00fc7634dba694f12451a.png",
+      "ReviewText1": "Car and Driver Review",
+      "ReviewImage2": "https://havecamerawilltravel.com/photographer/files/2020/01/youtube-logo-new.jpg",
+      "ReviewText2": "YouTube Review => Raiti\'s Reviews" 
    },
    
    {
