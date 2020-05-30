@@ -5,7 +5,8 @@
       "Weight_in_lbs": 3505,
       "Acceleration": 4.0,
       "Price": 54000,
-      "Pic": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my19/cla/byo/options/2019-CLA-CLA45-AMG-MODEL-PAGE-105.jpg"
+      "Pic": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my19/cla/byo/options/2019-CLA-CLA45-AMG-MODEL-PAGE-105.jpg",
+      "Unique": "AMG"
    },
    
     {
@@ -14,7 +15,8 @@
       "Weight_in_lbs": 3593,
       "Acceleration": 3.9,
       "Price": 56200,
-      "Pic": "https://s.blogcdn.com/slideshows/images/slides/748/849/7/S7488497/slug/l/2018-audi-rs3-1.jpg"
+      "Pic": "https://s.blogcdn.com/slideshows/images/slides/748/849/7/S7488497/slug/l/2018-audi-rs3-1.jpg",
+       "Unique": "AudiSport"
    },
    
    {
@@ -23,7 +25,8 @@
       "Weight_in_lbs": 4400,
       "Acceleration": 4.2,
       "Price": 46500,
-      "Pic": "https://cnet1.cbsistatic.com/img/uFPZ59aD3cNPPV4dx1uC9T825X8=/1200x675/2019/12/17/2fd803f3-6e81-4b3c-b23b-ca442dd224fe/2020-dodge-charger-widebody-001.jpg"
+      "Pic": "https://cnet1.cbsistatic.com/img/uFPZ59aD3cNPPV4dx1uC9T825X8=/1200x675/2019/12/17/2fd803f3-6e81-4b3c-b23b-ca442dd224fe/2020-dodge-charger-widebody-001.jpg",
+      "Unique": "SRT"
    },
    
    {
@@ -32,7 +35,8 @@
       "Weight_in_lbs": 3397,
       "Acceleration": 3.8,
       "Price": 49990,
-      "Pic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-toyota-supra-lead-1546969133.jpg"
+      "Pic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-toyota-supra-lead-1546969133.jpg",
+      "Unique": "Supra"
    },
    
    {
@@ -41,7 +45,8 @@
       "Weight_in_lbs": 3705,
       "Acceleration": 4.2,
       "Price": 49000,
-      "Pic": "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2020/collections/3-2/20_FRD_FL8627418_MUST_GT_V8_34FrntDrvrMotn_mj_desktop.jpg/_jcr_content/renditions/cq5dam.web.1440.1440.jpeg"
+      "Pic": "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2020/collections/3-2/20_FRD_FL8627418_MUST_GT_V8_34FrntDrvrMotn_mj_desktop.jpg/_jcr_content/renditions/cq5dam.web.1440.1440.jpeg",
+      "Unique": "GT"
    },
    
    
@@ -51,7 +56,8 @@
       "Weight_in_lbs": 3619,
       "Acceleration": 4.0,
       "Price": 35000,
-      "Pic": "https://www.boostaddict.com/images/imported/2019/03/2019ChevroletCamaroSSfrontthreequarter1-1.jpg"
+      "Pic": "https://www.boostaddict.com/images/imported/2019/03/2019ChevroletCamaroSSfrontthreequarter1-1.jpg",
+      "Unique": "SS"
    },
    
    {
@@ -60,7 +66,8 @@
       "Weight_in_lbs": 3117,
       "Acceleration": 5.4,
       "Price": 36995,
-      "Pic": "https://cdn.motor1.com/images/mgl/BE9KR/s1/2020-honda-civic-type-r.jpg"
+      "Pic": "https://cdn.motor1.com/images/mgl/BE9KR/s1/2020-honda-civic-type-r.jpg",
+      "Unique": "JDM"
    },
    
    {
@@ -69,7 +76,8 @@
       "Weight_in_lbs": 3294,
       "Acceleration": 5.7,
       "Price": 37895,
-      "Pic": "https://media.amlg.io/image-assets/roadshow/roadshow+a844b552-ae00-4d04-a991-d3472363bf57.png"
+      "Pic": "https://media.amlg.io/image-assets/roadshow/roadshow+a844b552-ae00-4d04-a991-d3472363bf57.png",
+      "Unique": "WRX"
    },
    
    {
@@ -78,7 +86,8 @@
       "Weight_in_lbs": 3605,
       "Acceleration": 4.6,
       "Price": 45500,
-      "Pic": "https://images.hgmsites.net/hug/bmw-2-series_100725149_h.jpg"
+      "Pic": "https://images.hgmsites.net/hug/bmw-2-series_100725149_h.jpg",
+      "Unique": "Allemania"
    },
    
    {
@@ -87,7 +96,8 @@
       "Weight_in_lbs": 3748 ,
       "Acceleration": 5.8,
       "Price": 44255,
-      "Pic": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/640x400/quality/80/https://s.aolcdn.com/commerce/autodata/images/USD00LEC281A021001.jpg"
+      "Pic": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/640x400/quality/80/https://s.aolcdn.com/commerce/autodata/images/USD00LEC281A021001.jpg",
+      "Unique": "Lexus"
    }
    
 
